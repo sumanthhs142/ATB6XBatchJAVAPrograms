@@ -6,7 +6,9 @@ public class Lab006 {
     // Blue color in the IntelliJ
     // package, public , class
     // lower case
-
+    public static void main(String[] args) {
+        System.out.println("Lab006");
+    }
 
 
 
