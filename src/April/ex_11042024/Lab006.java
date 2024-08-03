@@ -1,4 +1,4 @@
-package ex_11042024;
+package April.ex_11042024;
 
 public class Lab006 {
     //Keywords -> Important, reserved, pre-defined

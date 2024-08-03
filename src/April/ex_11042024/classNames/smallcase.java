@@ -1,4 +1,4 @@
-package ex_11042024.classNames;
+package April.ex_11042024.classNames;
 
 public class smallcase {
     public static void main(String[] args) {
