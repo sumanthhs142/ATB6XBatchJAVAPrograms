@@ -13,7 +13,7 @@ public class Person {
     String eye_color;
 
 
-    // Behav / Functionality
+    // Behave / Functionality
     void walk()
     {
         System.out.println("I can walk");
@@ -22,7 +22,7 @@ public class Person {
         System.out.println("I will say ->"+ msg);
     }
     String sleep(){
-        return "Sleeing";
+        return "Sleeping";
     }
     String eat(String item){
         return item;

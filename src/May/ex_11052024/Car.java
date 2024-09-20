@@ -7,11 +7,11 @@ public class Car {
     String tyres;
     String model;
     String color;
-    String transmissoinType;
+    String transmissionType;
 
 
 
-    // behav / methods/  functionaities
+    // behave / methods/  functionalities
     void reverse(){}
     void speedTop(){}
     void musicSystem(){

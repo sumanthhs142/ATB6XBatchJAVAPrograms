@@ -8,7 +8,7 @@ public class Dog {
     String ear;
 
 
-    //Behav
+    //Behave
     void eat(){} // method
     void walk(){}
     void bark(){}
